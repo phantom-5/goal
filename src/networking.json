@@ -1,0 +1,59 @@
+{
+  "topics": [
+    {
+      "range": "1-5",
+      "category": "Network Fundamentals",
+      "topics": [
+        "OSI Model & TCP/IP Suite",
+        "IP Addressing & Subnetting",
+        "Routing & Switching Basics",
+        "Network Topologies",
+        "LAN, WAN, MAN, PAN"
+      ]
+    },
+    {
+      "range": "6-10", 
+      "category": "Network Protocols",
+      "topics": [
+        "TCP vs UDP",
+        "HTTP/HTTPS & Web Technologies",
+        "DNS & DHCP",
+        "FTP, SMTP, POP3, IMAP",
+        "NAT & Proxy Services"
+      ]
+    },
+    {
+      "range": "11-15",
+      "category": "Network Security",
+      "topics": [
+        "Firewalls & IDS/IPS",
+        "VPN & Encryption",
+        "SSL/TLS & Digital Certificates",
+        "Network Attack Types",
+        "Security Policies & Best Practices"
+      ]
+    },
+    {
+      "range": "16-20",
+      "category": "Wireless Networking",
+      "topics": [
+        "802.11 Standards (WiFi)",
+        "Wireless Security (WEP, WPA, WPA2, WPA3)",
+        "Bluetooth & Zigbee",
+        "Mobile Networks (3G, 4G, 5G)",
+        "Satellite Communications"
+      ]
+    },
+    {
+      "range": "21-25",
+      "category": "Advanced Networking",
+      "topics": [
+        "SDN (Software Defined Networking)",
+        "Cloud Networking",
+        "Virtualization & Network Functions",
+        "Load Balancing & High Availability",
+        "Traffic Engineering & QoS"
+      ]
+    }
+  ]
+} 

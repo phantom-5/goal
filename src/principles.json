@@ -1,0 +1,33 @@
+{
+  "principles": {
+    "System Design": [
+      "Separation of Concerns",
+      "Single Responsibility Principle",
+      "Open/Closed Principle",
+      "Liskov Substitution Principle",
+      "Interface Segregation Principle",
+      "Dependency Inversion Principle"
+    ],
+    "Architecture": [
+      "SOLID",
+      "DRY (Don't Repeat Yourself)",
+      "KISS (Keep It Simple, Stupid)",
+      "YAGNI (You Aren't Gonna Need It)",
+      "Law of Demeter"
+    ],
+    "Security": [
+      "Principle of Least Privilege",
+      "Defense in Depth",
+      "Fail Securely",
+      "Complete Mediation",
+      "Separation of Duties"
+    ],
+    "Performance": [
+      "Optimize Critical Paths",
+      "Caching",
+      "Lazy Loading",
+      "Asynchronous Processing",
+      "Resource Pooling"
+    ]
+  }
+} 

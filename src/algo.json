@@ -1,0 +1,170 @@
+{
+    "1-5": {
+      "Sliding Window": [
+        "Fixed & Variable Window",
+        "Longest Substring Without Repeating Characters",
+        "Maximum Sum Subarray of Size K",
+        "Longest Subarray with Ones After Replacement"
+      ]
+    },
+    "6-10": {
+      "Two Pointers": [
+        "Fast & Slow Pointers",
+        "Pair Sum (Two Sum Sorted)",
+        "Dutch National Flag Problem (Sort Colors)",
+        "Linked List Cycle Detection"
+      ]
+    },
+    "11-15": {
+      "Merge Intervals": [
+        "Meeting Rooms",
+        "Insert Interval",
+        "Employee Free Time",
+        "Conflicting Appointments"
+      ]
+    },
+    "16-20": {
+      "Binary Search & Variants": [
+        "Find Element in Rotated Sorted Array",
+        "Find Peak Element",
+        "Search a 2D Matrix",
+        "Binary Search on Answer (Aggressive Cows, Split Array)"
+      ]
+    },
+    "21-25": {
+      "Fast & Slow Pointers": [
+        "Cycle Detection (Floyd’s Algorithm)",
+        "Middle of a Linked List",
+        "Palindrome Linked List",
+        "Happy Number"
+      ]
+    },
+    "26-30": {
+      "Bit Manipulation": [
+        "XOR Basics & Applications",
+        "Single Number Problems",
+        "Bitwise AND Range",
+        "Count Set Bits (Brian Kernighan’s Algorithm)"
+      ]
+    },
+    "31-40": {
+      "Backtracking & Recursion": [
+        "Subsets & Permutations",
+        "N-Queens",
+        "Word Search",
+        "Letter Combinations of a Phone Number"
+      ]
+    },
+    "41-45": {
+      "Dynamic Programming - 1D": [
+        "Fibonacci & Memoization",
+        "House Robber",
+        "Climbing Stairs",
+        "Coin Change"
+      ]
+    },
+    "46-50": {
+      "Dynamic Programming - 2D": [
+        "Longest Common Subsequence",
+        "Edit Distance",
+        "Knapsack Problem",
+        "Partition Equal Subset Sum"
+      ]
+    },
+    "51-55": {
+      "Graph Traversal (BFS & DFS)": [
+        "BFS vs DFS",
+        "Number of Islands",
+        "Word Ladder",
+        "Graph Valid Tree"
+      ]
+    },
+    "56-60": {
+      "Graph Shortest Path Algorithms": [
+        "Dijkstra’s Algorithm",
+        "Bellman-Ford",
+        "Floyd-Warshall",
+        "A* Algorithm"
+      ]
+    },
+    "61-65": {
+      "Union-Find & Graph Connectivity": [
+        "Kruskal’s Algorithm",
+        "Connected Components",
+        "Detect Cycles in Undirected Graph",
+        "Redundant Connection"
+      ]
+    },
+    "66-70": {
+      "Topological Sorting (Graph Order Processing)": [
+        "Course Schedule",
+        "Alien Dictionary",
+        "Parallel Task Scheduling",
+        "Critical Path Method"
+      ]
+    },
+    "71-80": {
+      "Segment Trees & Fenwick Trees": [
+        "Range Sum Queries",
+        "Lazy Propagation",
+        "Count of Smaller Numbers After Self",
+        "Dynamic Range Queries"
+      ]
+    },
+    "81-85": {
+      "Heap & Priority Queue": [
+        "Kth Largest Element",
+        "Merging K Sorted Lists",
+        "Top K Frequent Elements",
+        "Skyline Problem"
+      ]
+    },
+    "86-90": {
+      "Trie & Advanced String Matching": [
+        "Implement Trie (Prefix Tree)",
+        "Word Search II",
+        "Longest Common Prefix",
+        "Aho-Corasick Algorithm"
+      ]
+    },
+    "91-95": {
+      "Streaming & Approximate Algorithms": [
+        "Count-Min Sketch",
+        "HyperLogLog (Cardinality Estimation)",
+        "Bloom Filters",
+        "Log-Structured Merge Trees (LSM Trees)"
+      ]
+    },
+    "96-100": {
+      "Graph Partitioning & Distributed Graphs": [
+        "PageRank Algorithm",
+        "Min-Cut Graph Partitioning",
+        "Graph Sharding Techniques",
+        "Consistent Hashing"
+      ]
+    },
+    "101-105": {
+      "Database Query Optimization Algorithms": [
+        "B+ Trees & Red-Black Trees",
+        "Query Execution Plan Analysis",
+        "Cost-Based Query Optimization",
+        "Joins & Indexing Strategies"
+      ]
+    },
+    "106-110": {
+      "Concurrency & Parallel Algorithms": [
+        "Parallel BFS & DFS",
+        "Lock-Free Data Structures",
+        "Reader-Writer Locks",
+        "MapReduce & Spark Optimization"
+      ]
+    },
+    "111-120": {
+      "Final Practice & Mock Interviews": [
+        "Mock Coding Interviews (Leetcode Hard)",
+        "Debugging Large-Scale Systems",
+        "Scaling ML Workloads",
+        "Open-Ended Problem Solving"
+      ]
+    }
+  }

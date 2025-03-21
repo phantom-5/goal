@@ -1,0 +1,193 @@
+{
+    "topics": [
+      {
+        "range": "1-10",
+        "category": "Node.js & Express (or Fastify)",
+        "topics": [
+          "Event Loop & Async Model",
+          "Middleware & Routing",
+          "Request/Response Lifecycle",
+          "Error Handling",
+          "Dependency Injection in Node.js"
+        ]
+      },
+      {
+        "range": "11-20",
+        "category": "RESTful API Development",
+        "topics": [
+          "HTTP Methods & Status Codes",
+          "API Versioning",
+          "Pagination & Filtering",
+          "Rate Limiting (Redis-based)",
+          "HATEOAS (Hypermedia as Engine of App State)"
+        ]
+      },
+      {
+        "range": "21-25",
+        "category": "GraphQL APIs",
+        "topics": [
+          "Schema & Resolvers",
+          "Queries, Mutations, Subscriptions",
+          "Apollo Server & Client",
+          "Federation & Stitching",
+          "Caching & Performance"
+        ]
+      },
+      {
+        "range": "26-30",
+        "category": "gRPC & Protocol Buffers",
+        "topics": [
+          "Introduction to gRPC & Protobufs",
+          "Unary, Streaming, and Bidirectional Calls",
+          "Load Balancing with gRPC",
+          "Authentication & Security in gRPC",
+          "Comparing REST, GraphQL, and gRPC"
+        ]
+      },
+      {
+        "range": "31-40",
+        "category": "Authentication & Security",
+        "topics": [
+          "JWT vs Session-Based Auth",
+          "OAuth 2.0 & OpenID Connect",
+          "Multi-Factor Authentication (MFA)",
+          "Role-Based Access Control (RBAC)",
+          "API Security: CSRF, XSS, SQL Injection"
+        ]
+      },
+      {
+        "range": "41-50",
+        "category": "Database Systems",
+        "topics": [
+          "SQL (PostgreSQL, MySQL) vs NoSQL (MongoDB, DynamoDB)",
+          "Indexing, Query Optimization, Explain Plans",
+          "ACID vs BASE, Transactions",
+          "Replication & Sharding",
+          "ORMs (Prisma, TypeORM, Sequelize)"
+        ]
+      },
+      {
+        "range": "51-60",
+        "category": "Caching & Optimization",
+        "topics": [
+          "Redis & Memcached",
+          "Database Query Caching",
+          "CDN Caching (Cloudflare, Akamai)",
+          "Write-Through vs Write-Behind Caching",
+          "Cache Invalidation Strategies"
+        ]
+      },
+      {
+        "range": "61-70",
+        "category": "Microservices Architecture",
+        "topics": [
+          "Monolith vs Microservices",
+          "Inter-Service Communication (REST, gRPC, Event-driven)",
+          "Circuit Breaker Pattern (Resilience)",
+          "Saga Pattern & Eventual Consistency",
+          "API Gateway (Kong, AWS API Gateway)"
+        ]
+      },
+      {
+        "range": "71-80",
+        "category": "Docker & Kubernetes",
+        "topics": [
+          "Docker Basics & Multi-Stage Builds",
+          "Kubernetes (K8s) Deployment",
+          "Stateful vs Stateless Containers",
+          "Horizontal Pod Autoscaling",
+          "Service Mesh (Istio, Linkerd)"
+        ]
+      },
+      {
+        "range": "81-90",
+        "category": "Cloud Platforms (AWS/GCP/Azure)",
+        "topics": [
+          "Compute (EC2, Lambda, Kubernetes)",
+          "Cloud Databases (RDS, DynamoDB)",
+          "Storage Solutions (S3, Cloud Storage)",
+          "VPC, Load Balancers & Auto Scaling",
+          "CI/CD Pipelines (GitHub Actions, Jenkins)"
+        ]
+      },
+      {
+        "range": "91-100",
+        "category": "Serverless Architectures",
+        "topics": [
+          "AWS Lambda & Google Cloud Functions",
+          "API Gateway for Serverless",
+          "Event-driven Functions",
+          "Cost Optimization in Serverless"
+        ]
+      },
+      {
+        "range": "101-110",
+        "category": "Infrastructure as Code (IaC)",
+        "topics": [
+          "Terraform & CloudFormation",
+          "Managing Resources with IaC",
+          "Automating Deployments"
+        ]
+      },
+      {
+        "range": "111-120",
+        "category": "Event-Driven Systems",
+        "topics": [
+          "Kafka, RabbitMQ, NATS",
+          "Event Sourcing & CQRS",
+          "Log-based Event Processing",
+          "WebSockets, SSE, and Async Processing"
+        ]
+      },
+      {
+        "range": "121-130",
+        "category": "Scalability Fundamentals",
+        "topics": [
+          "Vertical vs Horizontal Scaling",
+          "Load Balancers (Nginx, HAProxy)",
+          "Read/Write Splitting",
+          "CAP Theorem"
+        ]
+      },
+      {
+        "range": "131-140",
+        "category": "Database Scaling Strategies",
+        "topics": [
+          "Database Partitioning (Sharding, Range, Hash)",
+          "Read Replicas vs Multi-Primary DBs",
+          "Eventual Consistency & Strong Consistency",
+          "Database Failover & Recovery"
+        ]
+      },
+      {
+        "range": "141-150",
+        "category": "CDNs & Global Traffic Management",
+        "topics": [
+          "Cloudflare, Akamai, AWS CloudFront",
+          "Edge Computing & Edge Caching",
+          "Anycast vs Geolocation Routing"
+        ]
+      },
+      {
+        "range": "151-160",
+        "category": "Observability & Reliability",
+        "topics": [
+          "Logging & Monitoring (Prometheus, Grafana, ELK)",
+          "Distributed Tracing (OpenTelemetry, Jaeger)",
+          "Error Budgeting & SLOs",
+          "Fault Tolerance & Chaos Engineering"
+        ]
+      },
+      {
+        "range": "171-180",
+        "category": "Final System Design Projects & Interviews",
+        "topics": [
+          "Design a Scalable Social Media Platform",
+          "Mock System Design Interviews",
+          "Performance Testing (JMeter, k6)",
+          "Real-world Backend Optimization"
+        ]
+      }
+    ]
+  }
+  

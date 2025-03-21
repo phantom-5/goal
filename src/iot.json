@@ -1,0 +1,27 @@
+{
+    "IoT": {
+      "Cloud Platforms": [
+        "Firebase",
+        "AWS IoT",
+        "Thingspeak",
+        "Azure IoT Hub"
+      ],
+      "Protocols": {
+        "MQTT": "Mosquitto Broker",
+        "Matter Protocol": "Standard for smart home connectivity"
+      },
+      "Security & Data Management": {
+        "Challenges": [
+          "DDoS Attacks",
+          "Encryption",
+          "Secure Authentication"
+        ],
+        "Data Storage": {
+          "SQL": "Structured Data Storage",
+          "NoSQL": "Flexible and Scalable Storage"
+        }
+      },
+      "IoT Gateways": "Building and Implementing Connectivity Solutions"
+    }
+  }
+  
