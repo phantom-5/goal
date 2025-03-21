@@ -1,4 +1,4 @@
-import { AppBar, Box, IconButton, Toolbar, Typography, useTheme } from '@mui/material';
+import { AppBar, Box, IconButton, Toolbar, Typography } from '@mui/material';
 import Brightness4Icon from '@mui/icons-material/Brightness4';
 import Brightness7Icon from '@mui/icons-material/Brightness7';
 import { useDispatch, useSelector } from 'react-redux';
@@ -9,7 +9,6 @@ import { CONSTANTS } from '../../utils/CONSTANTS';
 export const Header = () => {
   const dispatch = useDispatch();
   const darkMode = useSelector((state: RootState) => state.theme.darkMode);
-  const theme = useTheme();
 
   // Define text color based on the theme mode
   const textColor = darkMode ? 'inherit' : 'black';
